@@ -1,3 +1,4 @@
+# Testing
 # Integrate Travis CI into you Yeoman project [![Build Status](https://secure.travis-ci.org/manuelvanrijn/yeoman-travis-ci.png)](http://travis-ci.org/manuelvanrijn/yeoman-travis-ci)
 
 This is an example project that show's how you can integrate your [Yeoman](http://yeoman.io/) project into [Travis CI](http://travis-ci.org). With just a few lines you'll be able to automatically test your Yeoman project whenever you push something to GitHub.
